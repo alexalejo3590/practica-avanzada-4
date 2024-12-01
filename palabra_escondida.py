@@ -12,3 +12,4 @@ nombres = ["alexander", "jose", "pedro","andres", "maria"]
 palabra_secreta = "jose"
 
 pista = input("es un nombre que comienza con la letra j")
+
