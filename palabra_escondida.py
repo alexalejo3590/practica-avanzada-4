@@ -11,5 +11,6 @@ nombres = ["alexander", "jose", "pedro","andres", "maria"]
 
 palabra_secreta = "jose"
 
-pista = input("es un nombre que comienza con la letra j")
+adivina_la_primera_letra = input("adivina la primera letra del nombre: ")
+
 
