@@ -13,4 +13,23 @@ palabra_secreta = "jose"
 
 adivina_la_primera_letra = input("adivina la primera letra del nombre: ")
 
+adivina_la_primera_letra = input("adivina la primera letra del nombre: ")
+adivina_la_segunda_letra = input("adivina la primera letra del nombre:")
+adivina_la_tercera_letra = input("adivina la primera letra del nombre:")
+adivina_la_cuatro_letra = input("adivina la primera letra del nombre:")
+
+intento = 3
+
+if intento > 0:
+    print("es tu primera intento")
+elif intento > 1:
+    print("agotaste tu primer intentalo de nuevo")
+elif intento > 2:
+    print("agotaste tu segundo intento te queda un intento mas")
+elif intento > 3:
+    print("es tu ultimo intento")
+else:
+    print("se te acabaron tu ultimo intento")
+
+print("terminaro el juegos")
 
