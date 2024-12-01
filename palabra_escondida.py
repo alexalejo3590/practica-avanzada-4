@@ -6,3 +6,9 @@ print("2. Function-2 Name. continua el juego")
 print("3. Function-3 Name  comience el juego desde el cero")
 print("4. function-4 Exit")
 print("tienes 3 intento de adivinar")
+
+nombres = ["alexander", "jose", "pedro","andres", "maria"]
+
+palabra_secreta = "jose"
+
+pista = input("es un nombre que comienza con la letra j")
