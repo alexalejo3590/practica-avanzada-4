@@ -1,0 +1,8 @@
+print("Bienvenido al juego palabra_escondida")
+print("menu principal")
+print("selecionas tu opcion del menu")
+print("1. Function-1 Name. princio del juego")
+print("2. Function-2 Name. continua el juego")
+print("3. Function-3 Name  comience el juego desde el cero")
+print("4. function-4 Exit")
+print("tienes 3 intento de adivinar")
